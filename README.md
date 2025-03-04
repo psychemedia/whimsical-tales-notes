@@ -1,2 +1,3 @@
 # whimsical-tales-notes
-Whimsical tales
+
+Whimsical tales and drolls.
